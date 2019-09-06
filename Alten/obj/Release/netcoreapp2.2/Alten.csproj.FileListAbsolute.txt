@@ -1,0 +1,14 @@
+C:\Users\omarr\source\repos\Alten\Alten\bin\Release\netcoreapp2.2\Alten.deps.json
+C:\Users\omarr\source\repos\Alten\Alten\bin\Release\netcoreapp2.2\Alten.runtimeconfig.json
+C:\Users\omarr\source\repos\Alten\Alten\bin\Release\netcoreapp2.2\Alten.runtimeconfig.dev.json
+C:\Users\omarr\source\repos\Alten\Alten\bin\Release\netcoreapp2.2\Alten.dll
+C:\Users\omarr\source\repos\Alten\Alten\bin\Release\netcoreapp2.2\Alten.pdb
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.csprojAssemblyReference.cache
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.csproj.CoreCompileInputs.cache
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.RazorAssemblyInfo.cache
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.RazorAssemblyInfo.cs
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.AssemblyInfoInputs.cache
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.AssemblyInfo.cs
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.RazorTargetAssemblyInfo.cache
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.dll
+C:\Users\omarr\source\repos\Alten\Alten\obj\Release\netcoreapp2.2\Alten.pdb
